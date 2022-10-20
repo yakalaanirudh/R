@@ -1,0 +1,15 @@
+country,capital,lat,lon,code,continent
+Japan,Tokyo,35.68333333333333,139.750000,JP,Asia
+Chile,Santiago,-33.45,-70.666667,CL,South America
+China,Beijing,39.916666666666664,116.383333,CN,Asia
+Egypt,Cairo,30.05,31.250000,EG,Africa
+Iceland,Reykjavik,64.15,-21.950000,IS,Europe
+India,New Delhi,28.6,77.200000,IN,Asia
+Peru,Lima,-12.05,-77.050000,PE,South America
+Argentina,Buenos Aires,-34.583333333333336,-58.666667,AR,South America
+France,Paris,48.86666666666667,2.333333,FR,Europe
+New Zealand,Wellington,-41.3,174.783333,NZ,Australia
+Namibia,Windhoek,-22.566666666666666,17.083333,NA,Africa
+Canada,Ottawa,45.416666666666664,-75.700000,CA,Central America
+Cuba,Havana,23.116666666666667,-82.350000,CU,North America
+Russia,Moscow,55.75,37.600000,RU,Europe
